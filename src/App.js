@@ -3,8 +3,8 @@ import Potato from "./Potato";
 
 function App() {
   return <div>
-    hello
-    <Potato/>
+      hello
+      <Potato/>
     </div>;
 }
 
